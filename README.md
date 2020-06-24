@@ -21,6 +21,11 @@
 
 4. 3.maskDec.ipynb: final step to recognize using haarcascade model
 
+## Dataset
+[Dataset I used in this project ](https://github.com/prajnasb/observations/tree/master/experiements/data)
+
+
+
 ## Increasing the accuracy
 
 1. increase the number of images
